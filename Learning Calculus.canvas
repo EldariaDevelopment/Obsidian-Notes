@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"00e65752096787db","x":-91,"y":9,"width":191,"height":50,"type":"text","text":"Learning Calculus"}
+		{"id":"c10cc610bb7d7e17","type":"text","text":"","x":-20,"y":-200,"width":250,"height":60},
+		{"id":"d16a54eaee217da5","x":-20,"y":260,"width":250,"height":60,"type":"text","text":""},
+		{"id":"7205e432a98dc891","x":-20,"y":-80,"width":250,"height":60,"type":"text","text":""},
+		{"id":"00e65752096787db","type":"text","text":"Learning Calculus","x":-420,"y":240,"width":191,"height":50}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"99a5299110115408","fromNode":"00e65752096787db","fromSide":"right","toNode":"c10cc610bb7d7e17","toSide":"left"},
+		{"id":"4712dead2c1e6009","fromNode":"00e65752096787db","fromSide":"right","toNode":"7205e432a98dc891","toSide":"left"},
+		{"id":"4064669acbfde7f9","fromNode":"00e65752096787db","fromSide":"right","toNode":"d16a54eaee217da5","toSide":"left"}
+	]
 }
