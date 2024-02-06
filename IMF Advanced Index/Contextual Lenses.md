@@ -1,7 +1,7 @@
 # Contextual Lenses
 An enjoyable and non-efficient way of thinking about a Thing, is to place several different lenses in front of it. Each offers a different view; some more valuable than others, all part of the process.
 
-Contextual Lenses are similar to Mental Models and [[OODA Loop|OODA Looping]]. It stands apart because of the purpose:
+Contextual Lenses are similar to Mental Models and [[remote-github/IMF Advanced Index/OODA Loop|OODA Looping]]. It stands apart because of the purpose:
 
 - `Contextual Lenses` are primarily for broadening perspective and deepening understanding
 - `Mental Models` are primarily for pattern recognition for efficient, optimal action. 
@@ -18,5 +18,5 @@ Contextual Lenses are similar to Mental Models and [[OODA Loop|OODA Looping]]. I
 
 ---
 tags: #MOC #Mind
-links: [[000 Index|Index]], [[010 Mind MOC| Mind]], [[Concepts MOC|Concepts]]
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[remote-github/IMF Advanced Index/Indexes/010 Mind MOC| Mind]], [[remote-github/IMF Advanced Index/Concepts MOC|Concepts]]
 

@@ -1,5 +1,5 @@
 tags: #mentalModels #list  
-links: [[010 Mind MOC|Mind]], [[Concepts MOC|Concepts]]
+links: [[remote-github/IMF Advanced Index/Indexes/010 Mind MOC|Mind]], [[remote-github/IMF Advanced Index/Concepts MOC|Concepts]]
 created: 201906183333
 
 ---

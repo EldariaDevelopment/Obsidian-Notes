@@ -1,5 +1,5 @@
 tags: #pkm #IMF
-links: [[IMF]], [[IMF MOC]], [[Benefits of IMF]]
+links: [[IMF]], [[remote-github/IMF Advanced Index/IMF MOC]], [[remote-github/IMF Advanced Index/Benefits of IMF]]
 
 # Why Categories for Your Note Archive are a *Good* Idea
 The idea that "categories are bad" hinges on a faulty notion that categories limit access and cause rigidity that inhibit organic thinking.
@@ -13,13 +13,13 @@ Creating categories is a top-down process. You start with the structure and then
 If a categorizing framework is set up to be fluid, it is not top down. Notes do not have to fit its structure. There is no compromise. In the case of an index, it's a pre-existing structure that you can tether to only when you care to. *It adds context without limiting access.* 
 
 Here is that same picture: Wolverine is the note, and your index is just another tether:
-![[Wolverine tethered.jpg]]
+![[remote-github/IMF Advanced Index/_media/Wolverine tethered.jpg]]
 
 **Argument 2**
 Static categories are rigid. Our brains are not rigid. Therefore static categories inhibit our knowledge from growing organically.
 
 **Counter**
-This is still assuming that "categories equal top-down oppressive hierarchies."But with Maps of Content (MOCs), it's quite the opposite. MOCs spring up organically as the need arises for them. An example is this kit's [[IMF MOC]]; I didn't start with that; I instinctually grasped for it once I felt I had too many notes everywhere. 
+This is still assuming that "categories equal top-down oppressive hierarchies."But with Maps of Content (MOCs), it's quite the opposite. MOCs spring up organically as the need arises for them. An example is this kit's [[remote-github/IMF Advanced Index/IMF MOC]]; I didn't start with that; I instinctually grasped for it once I felt I had too many notes everywhere. 
 
 **Argument 3**
 I don't have categories and I'm doing fine.
@@ -32,7 +32,7 @@ Do you have more than 300 notes or so? You have categories. You just aren't call
 If you only have notes that are directly linked to other notes—and nothing else—then you can truly say you have not categories. The price for no categorization is steep.
 
 
-Please read about the framework most likely to produce a paradigm shift in your knowledge management game: [[Maps of Content]]. 
+Please read about the framework most likely to produce a paradigm shift in your knowledge management game: [[remote-github/IMF Advanced Index/Maps of Content]]. 
 
 
 

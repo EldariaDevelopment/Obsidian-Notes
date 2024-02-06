@@ -1,5 +1,5 @@
 tags: #MOC #projects #ideas #idea #IMF
-links: [[000 Index|Index]], [[100 Ideas MOC|Ideas]], [[100 Projects MOC|Projects]]
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[remote-github/IMF Advanced Index/Indexes/100 Ideas MOC|Ideas]], [[remote-github/IMF Advanced Index/Indexes/100 Projects MOC|Projects]]
 
 ---
 # Ideas MOC

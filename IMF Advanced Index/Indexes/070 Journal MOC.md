@@ -1,5 +1,5 @@
 tags: #journal #reflections #faves
-links: [[000 Index|Index]], [[070 Journal MOC|Journal]], [[060 Writings MOC|Writing]]
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[remote-github/IMF Advanced Index/Indexes/070 Journal MOC|Journal]], [[remote-github/IMF Advanced Index/Indexes/060 Writings MOC|Writing]]
 
 # Journal MOC
 This is private. I would suggest organizing by chronology, and embedding snippets of your favorite journals in bite-size compilations.
@@ -8,7 +8,7 @@ This is private. I would suggest organizing by chronology, and embedding snippet
 ### 2020
 [[2020 Journal Compilation]]
 ### 2019
-[[2019 December Journal Compilation]]
+[[remote-blog/03 IMF_AdvancedStarterKit_v2/2019 December Journal Compilation]]
 
 ### 2018
 ### 2017

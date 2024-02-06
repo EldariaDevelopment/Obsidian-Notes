@@ -1,5 +1,5 @@
 tags: #MOC #Body 
-links: [[000 Index|Index]], [[010 Mind MOC| Mind]], [[020 Body MOC|Body]]
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[remote-github/IMF Advanced Index/Indexes/010 Mind MOC| Mind]], [[remote-github/IMF Advanced Index/Indexes/020 Body MOC|Body]]
 
 ---
 # Body TOC
@@ -10,7 +10,7 @@ Welcome to the Body MOC. It is for areas of physical health, wellness, training,
 ## Breathing 
 *Showing the various methods that humans have used to pattern their breath.*
 
-* [[Breathing Exercises TOC]]
+* [[remote-github/IMF Advanced Index/Breathing Exercises TOC]]
 * Pranayama Breathing Exercises [[201904051938]]
 * Essay on Wim Hof Breath Manipulation [[201512031049]]
 

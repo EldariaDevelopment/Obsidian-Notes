@@ -1,5 +1,5 @@
 tags: #people #MOC #family #friends #pings
-links: [[000 Index|Index]], [[030 People MAP|People]]
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[remote-github/IMF Advanced Index/Indexes/030 People MAP|People]]
 
 # People MOC
 Welcome to the People MOC. This is about having a place to honor the importance of the people in my life by jotting down notable information. 

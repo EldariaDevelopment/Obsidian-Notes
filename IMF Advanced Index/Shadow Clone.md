@@ -14,4 +14,4 @@ While a user and/or their clones are performing tasks that require concentration
 
 ---
 tags: #MentalModels #metaphor
-links: [[Concepts MOC]]
+links: [[remote-github/IMF Advanced Index/Concepts MOC]]

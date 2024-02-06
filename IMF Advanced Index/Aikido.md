@@ -10,7 +10,7 @@ Aikido is a modern Japanese martial art developed by Morihei Ueshiba as a synthe
 `Famous practitioners`: Kisshomaru Ueshiba, Moriteru Ueshiba, Christian Tissier, Morihiro Saito, Koichi Tohei, Yoshimitsu Yamada, Gozo Shioda, Mitsugi Saotome, Steven Seagal  
 
 ## Related
-[[No-Face]] and [[The Id]]
+[[remote-github/IMF Advanced Index/No-Face]] and [[remote-github/IMF Advanced Index/The Id]]
 
 ---
-links: [[Concepts MOC]]
+links: [[remote-github/IMF Advanced Index/Concepts MOC]]

@@ -1,5 +1,5 @@
 tags: #essays #blogs #MOC #blog
-links: [[060 Writings MOC|Writings]] 
+links: [[remote-github/IMF Advanced Index/Indexes/060 Writings MOC|Writings]] 
 
 ---
 # Essays

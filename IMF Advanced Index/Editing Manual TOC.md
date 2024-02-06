@@ -1,5 +1,5 @@
 tags: #editingmanual #editing 
-editing: [[111 Editing Manual MOC|Editing Manual MOC]], [[Editing Manual TOC]]
+editing: [[remote-github/IMF Advanced Index/Indexes/111 Editing Manual MOC|Editing Manual MOC]], [[remote-github/IMF Advanced Index/Editing Manual TOC]]
 
 ---
 # Editing Manual TOC

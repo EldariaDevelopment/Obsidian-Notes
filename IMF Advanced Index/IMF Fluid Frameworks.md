@@ -1,5 +1,5 @@
 tags: #IMF
-links: [[IMF START]], [[IMF MOC]]
+links: [[remote-github/IMF Advanced Index/IMF START]], [[remote-github/IMF Advanced Index/IMF MOC]]
 
 # Fluid Frameworks
 A framework is an essential supporting structure. 
@@ -11,10 +11,10 @@ Folders are not a very fluid framework because they impose rigidity and reduce t
 
 This is a deep rabbit hole, so for now, go to: 
 
-[[Why Categories for Your Note Archive are a Good Idea (IMF)]]
+[[remote-github/IMF Advanced Index/Why Categories for Your Note Archive are a Good Idea (IMF)]]
 
 We'll deal more with Fluid Frameworks in the next version. 
 
-See the inspiration for "fluid" categories at [[Fluid Taxonomies]].
+See the inspiration for "fluid" categories at [[remote-github/IMF Advanced Index/Fluid Taxonomies]].
 
 

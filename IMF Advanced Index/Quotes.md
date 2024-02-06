@@ -1,1 +1,1 @@
-[[050 Quotes MOC|Quotes]]
+[[remote-github/IMF Advanced Index/Indexes/050 Quotes MOC|Quotes]]

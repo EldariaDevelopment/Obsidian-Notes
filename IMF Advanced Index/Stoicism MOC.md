@@ -1,5 +1,5 @@
 tags: #stoicism 
-links: [[040 Interests MOC|Interests]]
+links: [[remote-github/IMF Advanced Index/Indexes/040 Interests MOC|Interests]]
 
 ---
 # Stoicism

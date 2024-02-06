@@ -1,6 +1,6 @@
 # Energy
-one of the: [[Four Factors of Flow]]
+one of the: [[remote-github/IMF Advanced Index/Four Factors of Flow]]
 
 
 ---
-toc: [[FlowCreation TOC]]
+toc: [[remote-github/IMF Advanced Index/FlowCreation TOC]]

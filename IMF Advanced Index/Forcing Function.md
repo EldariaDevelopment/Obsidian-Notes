@@ -16,4 +16,4 @@ A behavior-shaping constraint, also sometimes referred to as a forcing function 
 
 ---
 tags: [[MentalModels]]   
-links: [[Concepts MOC]]
+links: [[remote-github/IMF Advanced Index/Concepts MOC]]

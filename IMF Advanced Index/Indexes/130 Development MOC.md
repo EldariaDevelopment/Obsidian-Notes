@@ -1,9 +1,9 @@
 tags: #editingmanual #editing 
-editing: [[remote-github/IMF Advanced Index/Indexes/111 Editing Manual MOC|Editing Manual MOC]], [[remote-github/IMF Advanced Index/Editing Manual TOC]]
+editing: [[111 Editing Manual MOC|Editing Manual MOC]], [[Editing Manual TOC]]
 
 ---
 # Editing Manual MOC
-[[remote-github/IMF Advanced Index/Editing Manual TOC]]
+[[Editing Manual TOC]]
 
 ## Editing Notes
 - [[113100000200 EDITING •••|EDITING •••]] 

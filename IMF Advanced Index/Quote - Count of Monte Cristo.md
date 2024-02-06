@@ -4,4 +4,4 @@ Dantes asks, "What would you not have accomplished if you had been free?” The 
 
 ---
 tags: #quotes #quotes100 #active #onConstraints
-links: [[050 Quotes MOC|Quotes]]
+links: [[remote-github/IMF Advanced Index/Indexes/050 Quotes MOC|Quotes]]

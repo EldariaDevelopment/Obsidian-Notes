@@ -1,5 +1,5 @@
 tags: #MOC #lists #IMF
-links: [[000 Index|Index]], [[095 Lists TOC|Lists]] 
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[095 Lists TOC|Lists]] 
 
 ---
 # Lists TOC

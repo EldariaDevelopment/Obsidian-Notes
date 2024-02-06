@@ -22,5 +22,5 @@
 
 ---
 tags: [[listed]] [[mentalModels]] [[concept]]
-links: [[Concepts MOC|Concepts]]
+links: [[remote-github/IMF Advanced Index/Concepts MOC|Concepts]]
 

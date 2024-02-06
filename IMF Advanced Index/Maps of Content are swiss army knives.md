@@ -1,5 +1,5 @@
 tags: #MOC #lists #concepts #PKM
-links: [[IMF START]], [[IMF MOC]]
+links: [[remote-github/IMF Advanced Index/IMF START]], [[remote-github/IMF Advanced Index/IMF MOC]]
 
 ---
 # Maps of Content are swiss army knives
@@ -14,18 +14,18 @@ This type of awesome relational/positional thinking doesn't happen with a rigid 
 
 ---
 ## (Example 1) Daily Reminders
-Starting some days, I'll consider how to apply three *strategic* mental models: [[OODA Loop]], [[Levels of Magnification]], and [[Contextual Lenses]].
+Starting some days, I'll consider how to apply three *strategic* mental models: [[remote-github/IMF Advanced Index/OODA Loop]], [[remote-github/IMF Advanced Index/Levels of Magnification]], and [[remote-github/IMF Advanced Index/Contextual Lenses]].
 
-For my work as an editor/AE in TV, I know to improve my craft means the steady application of getting [[Reps]], creating the conditions for [[Flow]], which involves environmental  [[Forcing Function|Forcing Functions]], and considering when I can multitask [[Shadow Clone]]. 
+For my work as an editor/AE in TV, I know to improve my craft means the steady application of getting [[remote-github/IMF Advanced Index/Reps]], creating the conditions for [[remote-github/IMF Advanced Index/Flow]], which involves environmental  [[remote-github/IMF Advanced Index/Forcing Function|Forcing Functions]], and considering when I can multitask [[remote-github/IMF Advanced Index/Shadow Clone]]. 
 
 
-[[Natural Selection]] is one of the mega-concepts. It helps me decipher the signal from the noise through the mechanism of considering the [[Lindy Effect]], along with [[Hormesis]] and [[Antifragility]]—and also more broadly [[Cause and Effect]].
+[[remote-github/IMF Advanced Index/Natural Selection]] is one of the mega-concepts. It helps me decipher the signal from the noise through the mechanism of considering the [[remote-github/IMF Advanced Index/Lindy Effect]], along with [[remote-github/IMF Advanced Index/Hormesis]] and [[remote-github/IMF Advanced Index/Antifragility]]—and also more broadly [[remote-github/IMF Advanced Index/Cause and Effect]].
 
-In times of stress it helps me to broaden my perspective and consider concepts like: [[Ying and Yang]], [[Synthesis]], [[Seasons]].
+In times of stress it helps me to broaden my perspective and consider concepts like: [[remote-github/IMF Advanced Index/Ying and Yang]], [[remote-github/IMF Advanced Index/Synthesis]], [[remote-github/IMF Advanced Index/Seasons]].
 
-Dealing with folks in the entertainment industry—and just throughout life really—there are plenty of instances to consider ways to handle ego and aggression. The most fascinating is [[No-Face]] from Spirited Away, which leads to [[The Id]]. [[Aikido]] is good to remember.
+Dealing with folks in the entertainment industry—and just throughout life really—there are plenty of instances to consider ways to handle ego and aggression. The most fascinating is [[remote-github/IMF Advanced Index/No-Face]] from Spirited Away, which leads to [[remote-github/IMF Advanced Index/The Id]]. [[remote-github/IMF Advanced Index/Aikido]] is good to remember.
 
-For more avenues to re-expanded my narrowed perspectve, try to revisit the [[Rubik's Cube]], or pull from [[Charlie Munger's Mental Models]].
+For more avenues to re-expanded my narrowed perspectve, try to revisit the [[remote-github/IMF Advanced Index/Rubik's Cube]], or pull from [[remote-github/IMF Advanced Index/Charlie Munger's Mental Models]].
 
 
 ---
@@ -33,94 +33,94 @@ For more avenues to re-expanded my narrowed perspectve, try to revisit the [[Rub
 *A concept is a pattern, truth, or mechanism recognized and given a name.*
 
 #### For Strategy
-- [[OODA Loop]]
-- [[Levels of Magnification]]  
-- [[Contextual Lenses]]
+- [[remote-github/IMF Advanced Index/OODA Loop]]
+- [[remote-github/IMF Advanced Index/Levels of Magnification]]  
+- [[remote-github/IMF Advanced Index/Contextual Lenses]]
 
 ##### For Improvement
-- [[Reps]] 
-- [[Flow]]
-- [[Shadow Clone]]
-- [[Forcing Function]] 
+- [[remote-github/IMF Advanced Index/Reps]] 
+- [[remote-github/IMF Advanced Index/Flow]]
+- [[remote-github/IMF Advanced Index/Shadow Clone]]
+- [[remote-github/IMF Advanced Index/Forcing Function]] 
 
 #### Natural Selection
-- [[Natural Selection]]
-- [[Hormesis]]
-- [[Antifragility]]
-- [[Cause and Effect]]
-- [[Lindy Effect]] 
+- [[remote-github/IMF Advanced Index/Natural Selection]]
+- [[remote-github/IMF Advanced Index/Hormesis]]
+- [[remote-github/IMF Advanced Index/Antifragility]]
+- [[remote-github/IMF Advanced Index/Cause and Effect]]
+- [[remote-github/IMF Advanced Index/Lindy Effect]] 
 
 #### Finding Balance
-- [[Ying and Yang]]
-- [[Synthesis]]
-- [[Seasons]]
+- [[remote-github/IMF Advanced Index/Ying and Yang]]
+- [[remote-github/IMF Advanced Index/Synthesis]]
+- [[remote-github/IMF Advanced Index/Seasons]]
 
 #### Dealing with Aggression
-- [[No-Face]]
-- [[The Id]]
-- [[Aikido]] 
+- [[remote-github/IMF Advanced Index/No-Face]]
+- [[remote-github/IMF Advanced Index/The Id]]
+- [[remote-github/IMF Advanced Index/Aikido]] 
 
 #### For Expanding Perspective
-- [[Rubik's Cube]]
-- [[Charlie Munger's Mental Models]]
+- [[remote-github/IMF Advanced Index/Rubik's Cube]]
+- [[remote-github/IMF Advanced Index/Charlie Munger's Mental Models]]
 
 ---
 ## (Example 3) By Different Categories 
 
 #### Goal-Oriented, Fairly Actionable and Practical Concepts
-- [[OODA Loop]]
-- [[Forcing Function]] 
-- [[Reps]] 
-- [[Hormesis]]
-- [[Antifragility]]
+- [[remote-github/IMF Advanced Index/OODA Loop]]
+- [[remote-github/IMF Advanced Index/Forcing Function]] 
+- [[remote-github/IMF Advanced Index/Reps]] 
+- [[remote-github/IMF Advanced Index/Hormesis]]
+- [[remote-github/IMF Advanced Index/Antifragility]]
 
 #### Goal-Oriented, Fairly Actionable and Practical Concepts
-- [[Levels of Magnification]]  
-- [[Contextual Lenses]]
+- [[remote-github/IMF Advanced Index/Levels of Magnification]]  
+- [[remote-github/IMF Advanced Index/Contextual Lenses]]
 
 #### Heavyweight Concepts
-- [[Natural Selection]]
-- [[Cause and Effect]]
-- [[Ying and Yang]]
-- [[Synthesis]]
-- [[Seasons]]
-- [[Lindy Effect]] 
+- [[remote-github/IMF Advanced Index/Natural Selection]]
+- [[remote-github/IMF Advanced Index/Cause and Effect]]
+- [[remote-github/IMF Advanced Index/Ying and Yang]]
+- [[remote-github/IMF Advanced Index/Synthesis]]
+- [[remote-github/IMF Advanced Index/Seasons]]
+- [[remote-github/IMF Advanced Index/Lindy Effect]] 
 
 #### Other Mind-Jostling Concepts
-- [[No-Face]]
-- [[The Id]]
-- [[Rubik's Cube]]
-- [[Shadow Clone]]
+- [[remote-github/IMF Advanced Index/No-Face]]
+- [[remote-github/IMF Advanced Index/The Id]]
+- [[remote-github/IMF Advanced Index/Rubik's Cube]]
+- [[remote-github/IMF Advanced Index/Shadow Clone]]
 
 #### Unsorted
-- [[Aikido]] 
-- [[Charlie Munger's Mental Models]]
+- [[remote-github/IMF Advanced Index/Aikido]] 
+- [[remote-github/IMF Advanced Index/Charlie Munger's Mental Models]]
 
 ---
 ## (Example 4) By A-Z
-- [[Aikido]] 
-- [[Antifragility]]
-- [[Cause and Effect]]
-- [[Charlie Munger's Mental Models]]
-- [[Contextual Lenses]]
-- [[Flow]]
-- [[Forcing Function]] 
-- [[Hormesis]]
-- [[The Id]]
-- [[Levels of Magnification]]  
-- [[Lindy Effect]] 
-- [[Natural Selection]]
-- [[No-Face]]
-- [[OODA Loop]]
-- [[Reps]] 
-- [[Rubik's Cube]]
-- [[Seasons]]
-- [[Shadow Clone]]
-- [[Synthesis]]
-- [[Ying and Yang]]
+- [[remote-github/IMF Advanced Index/Aikido]] 
+- [[remote-github/IMF Advanced Index/Antifragility]]
+- [[remote-github/IMF Advanced Index/Cause and Effect]]
+- [[remote-github/IMF Advanced Index/Charlie Munger's Mental Models]]
+- [[remote-github/IMF Advanced Index/Contextual Lenses]]
+- [[remote-github/IMF Advanced Index/Flow]]
+- [[remote-github/IMF Advanced Index/Forcing Function]] 
+- [[remote-github/IMF Advanced Index/Hormesis]]
+- [[remote-github/IMF Advanced Index/The Id]]
+- [[remote-github/IMF Advanced Index/Levels of Magnification]]  
+- [[remote-github/IMF Advanced Index/Lindy Effect]] 
+- [[remote-github/IMF Advanced Index/Natural Selection]]
+- [[remote-github/IMF Advanced Index/No-Face]]
+- [[remote-github/IMF Advanced Index/OODA Loop]]
+- [[remote-github/IMF Advanced Index/Reps]] 
+- [[remote-github/IMF Advanced Index/Rubik's Cube]]
+- [[remote-github/IMF Advanced Index/Seasons]]
+- [[remote-github/IMF Advanced Index/Shadow Clone]]
+- [[remote-github/IMF Advanced Index/Synthesis]]
+- [[remote-github/IMF Advanced Index/Ying and Yang]]
 
 
 ---
 tags: #pkm 
-links: [[IMF START]], [[Benefits of IMF|Benefits]], [[Setting Up IMF|How to Use]], [[IMF Glossary|Glossary]], [[IMF About|About]]
+links: [[remote-github/IMF Advanced Index/IMF START]], [[remote-github/IMF Advanced Index/Benefits of IMF|Benefits]], [[remote-github/IMF Advanced Index/Setting Up IMF|How to Use]], [[remote-github/IMF Advanced Index/IMF Glossary|Glossary]], [[remote-github/IMF Advanced Index/IMF About|About]]
 

@@ -9,11 +9,11 @@ I have found it useful to use three different levels of magnification when looki
 * **Technical** — The nuts and bolts, diving deep into the specifics of a thing
 
 
-See also: [[Contextual Lenses]]
+See also: [[remote-github/IMF Advanced Index/Contextual Lenses]]
 
 The most enjoyable and least efficient way of thinking about a Thing, is to place several different lenses in front of it. Each offers a different view; some more valuable than others, all part of the process.
 
 ---
 tags: #mind #concept
-links: [[000 Index|Index]], [[Concepts MOC|Concepts]]
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[remote-github/IMF Advanced Index/Concepts MOC|Concepts]]
 created: 201806189999

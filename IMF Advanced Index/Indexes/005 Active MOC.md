@@ -1,5 +1,5 @@
 tags: #MOC
-links: [[000 Index|Index]]
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]]
 
 ---
 # Active MOC
@@ -11,9 +11,9 @@ But it's nice to have a place to put to new/relevant stuff you don't want to for
 - Current Reminder
 - Current Project
 - Current Idea
-- [[Quote - Count of Monte Cristo]]
+- [[remote-blog/03 IMF_AdvancedStarterKit_v2/Quote - Count of Monte Cristo]]
 - Current Goal
 
 ### IM tasks
-- [ ] clean up [[Concepts MOC]]
+- [ ] clean up [[remote-github/IMF Advanced Index/Concepts MOC]]
 - [ ] https://vimeo.com/275530205 - this was suggested to watch, might be apropos to take notes on it

@@ -4,7 +4,7 @@
 
 Folders act to limit a note's availability. They bury notes. This is bad in that it reduces your potential *avenues towards note retrieval*. [^1]
 
-That's why Maps of Content are magicians: *they don't limit access; they curate it* (See [[Why Categories for Your Note Archive are a Good Idea (IMF)]]). MOCs exist in parallel with all your other notes. It's like having the ability to turn on an augmented overlay on top of your existing notes. They add context without constraint, freedom without friction. (Read more on MOCs at [[Maps of Content]])
+That's why Maps of Content are magicians: *they don't limit access; they curate it* (See [[remote-github/IMF Advanced Index/Why Categories for Your Note Archive are a Good Idea (IMF)]]). MOCs exist in parallel with all your other notes. It's like having the ability to turn on an augmented overlay on top of your existing notes. They add context without constraint, freedom without friction. (Read more on MOCs at [[remote-github/IMF Advanced Index/Maps of Content]])
 
 
 **QUESTION**: Wasn't Luhmann's zettelkasten without any categories to classify notes, whereas the IMF uses MOCs?
@@ -23,6 +23,6 @@ On projects, I see the MOC and TOC as working in tandem more often than not.
 
 ---
 tags: #IMF
-links: [[IMF START]], [[IMF MOC]]
+links: [[remote-github/IMF Advanced Index/IMF START]], [[remote-github/IMF Advanced Index/IMF MOC]]
 
 [^1]: The can be a benefit if you deliberately want to keep private notes separated and harder to access. 

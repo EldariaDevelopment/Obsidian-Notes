@@ -1,5 +1,5 @@
 tags: #books #TOC #MOC
-Index: [[000 Index|Index]], [[040 Interests MOC|Interests]]
+Index: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[remote-github/IMF Advanced Index/Indexes/040 Interests MOC|Interests]]
 
 ---
 ## Main Book Categories

@@ -8,4 +8,4 @@
 
 ---
 tags: #mentalModels #concepts
-links: [[Concepts MOC]]
+links: [[remote-github/IMF Advanced Index/Concepts MOC]]

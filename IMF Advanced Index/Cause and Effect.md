@@ -5,4 +5,4 @@ Causality is, by which one process or state, a cause, contributes to the product
 
 ---
 tags: #mentalModels, #concepts
-links: [[Concepts MOC|Concepts]]
+links: [[remote-github/IMF Advanced Index/Concepts MOC|Concepts]]

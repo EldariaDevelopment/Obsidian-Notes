@@ -1,5 +1,5 @@
 tags: #MOC #Movies; #TV; #music; #songs; #songs100; #songs250
-links: [[040 Interests MOC|Interests]]
+links: [[remote-github/IMF Advanced Index/Indexes/040 Interests MOC|Interests]]
 
 ---
 # Inputs, Media, Consumption, Art
@@ -7,7 +7,7 @@ links: [[040 Interests MOC|Interests]]
 ==Note: The linked notes are not provided==
 
 ## Books
-- [[Books Example MOC]]
+- [[remote-github/IMF Advanced Index/Books Example MOC]]
 
 ## Movies
 [[146600000890

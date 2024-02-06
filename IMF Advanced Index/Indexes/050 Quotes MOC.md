@@ -1,5 +1,5 @@
 tags: #quotes #MOC
-links: [[000 Index|Index]], [[050 Quotes MOC|Quotes]]
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[remote-github/IMF Advanced Index/Indexes/050 Quotes MOC|Quotes]]
 
 ---
 # Quotes MOC
@@ -7,8 +7,8 @@ Welcome to your "commonplace book" of quotes. Try clicking on #quotes100 to see 
 
 ==Note: The majority of links and tags won't work since the associated notes are not provided in the starter kit.==
 
-[[Tidbits MOC]]
-[[Quips MOC]]
+[[remote-github/IMF Advanced Index/Tidbits MOC]]
+[[remote-github/IMF Advanced Index/Quips MOC]]
 
 ## Some Categories
 #ancients

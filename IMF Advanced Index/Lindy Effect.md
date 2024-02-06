@@ -11,5 +11,5 @@ The Lindy effect is a concept that the future life expectancy of some non-perish
 
 ---
 tags: [[mentalModels]]   
-links: [[Concepts MOC]]
+links: [[remote-github/IMF Advanced Index/Concepts MOC]]
 created: 201509180858

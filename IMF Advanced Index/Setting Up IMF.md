@@ -1,5 +1,5 @@
   tags: #pkm #IMF
-links: [[IMF START]], [[IMF MOC]], [[Benefits of IMF|Benefits]] — [[000 Index|Index]]
+links: [[remote-github/IMF Advanced Index/IMF START]], [[remote-github/IMF Advanced Index/IMF MOC]], [[remote-github/IMF Advanced Index/Benefits of IMF|Benefits]] — [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]]
 
 ---
 # Setting Up Your IMF Framework
@@ -18,10 +18,10 @@ links: [[IMF START]], [[IMF MOC]], [[Benefits of IMF|Benefits]] — [[000 Index|
 
 That's the basic process.
 
-Remember, the structure works for YOU, not the other way around (See [[Is IMF For You|Is an IMF-equipped library for me]]). You can always just create thousands of notes without looking at the Index once. 
+Remember, the structure works for YOU, not the other way around (See [[remote-github/IMF Advanced Index/Is IMF For You|Is an IMF-equipped library for me]]). You can always just create thousands of notes without looking at the Index once. 
 
 ---
 ### Advanced steps
-1. In the Index, start customizing the main categories to suit your personal needs. First read [[Setting up your Index Categories (IMF)]].
+1. In the Index, start customizing the main categories to suit your personal needs. First read [[remote-github/IMF Advanced Index/Setting up your Index Categories (IMF)]].
 2. Play around, break things. Some categories you thought would work won't. That's fine, just rejigger things until they work better for you.
 

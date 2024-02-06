@@ -1,5 +1,5 @@
 tags: #letters #MOC
-links: [[060 Writings MOC|Writings]] 
+links: [[remote-github/IMF Advanced Index/Indexes/060 Writings MOC|Writings]] 
 
 ---
 # Letters

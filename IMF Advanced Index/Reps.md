@@ -11,4 +11,4 @@ In practicing a craft, just show up, and get reps: tiny reps, technical reps, re
 
 ---
 tags: #concepts
-links: [[Concepts MOC]] — [[Benefits of IMF]]
+links: [[remote-github/IMF Advanced Index/Concepts MOC]] — [[remote-github/IMF Advanced Index/Benefits of IMF]]

@@ -1,5 +1,5 @@
 tags: #pkm, #IMF
-links: [[IMF MOC]] — [[000 Index|Index]]
+links: [[remote-github/IMF Advanced Index/IMF MOC]] — [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]]
 
 ---
 # The IMF Framework
@@ -16,12 +16,12 @@ It is robust, flexible, and able to match your changing needs—which are undoub
 3. **Other Fluid Frameworks** [^2] -  Adding structure to your notes has gotten a bad rap lately. But if you know how to keep your structures fluid, you'll get the best of both worlds: order *and* chaos; excellent note retrieval *and* the serendipity of discovery. More on this later. 
 
 ## Next Steps
-**A)** Read the [[Benefits of IMF]].
+**A)** Read the [[remote-github/IMF Advanced Index/Benefits of IMF]].
 
-**B)** Or [[Setting Up IMF|start setting up your IMF frameworks]].
+**B)** Or [[remote-github/IMF Advanced Index/Setting Up IMF|start setting up your IMF frameworks]].
 
-**C)** Or jump to [[000 Index| The Index]] and start playing around.
+**C)** Or jump to [[remote-github/IMF Advanced Index/Indexes/000 Index| The Index]] and start playing around.
 
 
 [^1]: Yes, that means it's the "Index Maps and Frameworks framework", which is accurate in describing the overall framework.
-[^2]: The idea of structures or categories that help without limiting the user was given the name [[Fluid Taxonomies]], an excellent term coined by @mediapathic.
+[^2]: The idea of structures or categories that help without limiting the user was given the name [[remote-github/IMF Advanced Index/Fluid Taxonomies]], an excellent term coined by @mediapathic.

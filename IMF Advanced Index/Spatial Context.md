@@ -3,4 +3,4 @@ The ancients had to rely on their memories to hold onto information. They develo
 
 ---
 tags: #pkm
-links: [[IMF MOC]], [[Benefits of IMF]]
+links: [[remote-github/IMF Advanced Index/IMF MOC]], [[remote-github/IMF Advanced Index/Benefits of IMF]]

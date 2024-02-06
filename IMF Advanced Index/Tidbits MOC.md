@@ -1,5 +1,5 @@
 tags: #tidbits #MOC
-links: [[000 Index|Index]], [[050 Quotes MOC|Quotes]]
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[remote-github/IMF Advanced Index/Indexes/050 Quotes MOC|Quotes]]
 
 ---
 # Tidbits MOC

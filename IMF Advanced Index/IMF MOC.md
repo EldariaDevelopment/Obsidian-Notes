@@ -1,19 +1,19 @@
 tags: #IMF #MOC #PKM
-links: [[IMF MOC]] — [[000 Index|Index]]
+links: [[remote-github/IMF Advanced Index/IMF MOC]] — [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]]
 # IMF Map of Contents
-[[Guiding Principles of Knowledge Management]]
+[[remote-github/IMF Advanced Index/Guiding Principles of Knowledge Management]]
 
-- [[IMF START]] - Start and Intro to the IMF Framework
-	- [[Benefits of IMF]] 
-		- [[Is IMF For You]]
-- [[Maps of Content]] - Crucial to understand these
-	- [[Maps of Content are swiss army knives]]
-	- [[Why Categories for Your Note Archive are a Good Idea (IMF)]]
-- [[IMF Fluid Frameworks]]
-	- [[Fluid Taxonomies]]
-- [[Setting Up IMF]]
-	- [[Intro to the Index Categories (IMF)]]
-	- [[Setting up your Index Categories (IMF)]]
+- [[remote-github/IMF Advanced Index/IMF START]] - Start and Intro to the IMF Framework
+	- [[remote-github/IMF Advanced Index/Benefits of IMF]] 
+		- [[remote-github/IMF Advanced Index/Is IMF For You]]
+- [[remote-github/IMF Advanced Index/Maps of Content]] - Crucial to understand these
+	- [[remote-github/IMF Advanced Index/Maps of Content are swiss army knives]]
+	- [[remote-github/IMF Advanced Index/Why Categories for Your Note Archive are a Good Idea (IMF)]]
+- [[remote-github/IMF Advanced Index/IMF Fluid Frameworks]]
+	- [[remote-github/IMF Advanced Index/Fluid Taxonomies]]
+- [[remote-github/IMF Advanced Index/Setting Up IMF]]
+	- [[remote-github/IMF Advanced Index/Intro to the Index Categories (IMF)]]
+	- [[remote-github/IMF Advanced Index/Setting up your Index Categories (IMF)]]
 
 ---
 - IMF Setting up MOCs - next version
@@ -30,6 +30,6 @@ links: [[IMF MOC]] — [[000 Index|Index]]
 - Use Case for a Projects Framework - next version - creators
 
 ---
-- [[IMF FAQ]]
-- [[IMF Glossary]]
-- [[IMF About]]
+- [[remote-github/IMF Advanced Index/IMF FAQ]]
+- [[remote-github/IMF Advanced Index/IMF Glossary]]
+- [[remote-github/IMF Advanced Index/IMF About]]

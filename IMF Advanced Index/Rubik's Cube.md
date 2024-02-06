@@ -20,4 +20,4 @@
 
 ---
 tags: #listed #mentalModels
-links: [[Concepts MOC]]
+links: [[remote-github/IMF Advanced Index/Concepts MOC]]

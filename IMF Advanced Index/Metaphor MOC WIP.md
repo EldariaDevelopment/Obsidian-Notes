@@ -1,5 +1,5 @@
 tags: #Mind
-links: [[055 Figures MOC|Figures]]
+links: [[remote-github/IMF Advanced Index/Indexes/055 Figures MOC|Figures]]
 
 # Thought Unpacking
 This content map is inspired by [[201906189997 Thought Unpacking]]

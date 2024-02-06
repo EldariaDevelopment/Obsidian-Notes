@@ -16,6 +16,6 @@ From an early age, we absorb our culture's arrogant conviction that we manufactu
 
 ---
 tags: #mentalModels #concepts
-links: [[Concepts MOC]]
+links: [[remote-github/IMF Advanced Index/Concepts MOC]]
 notes: rename to Cycles? include Turnovers, and breaks, on/off
 

@@ -1,5 +1,5 @@
 tags: #metaphors #MOC #PKM
-links: [[055 Figures MOC|Figures]]
+links: [[remote-github/IMF Advanced Index/Indexes/055 Figures MOC|Figures]]
 
 ---
 # Metaphors MOC

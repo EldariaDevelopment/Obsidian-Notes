@@ -20,7 +20,7 @@ Then to summarize the conversation, mediapathic riffed on the Discordian quote:
 
 > “All models are True in some sense, False in some sense, and Meaningless in some sense” #quotes
 
-Back to [[IMF Fluid Frameworks]]
+Back to [[remote-github/IMF Advanced Index/IMF Fluid Frameworks]]
 
 ---
 tags: #IMF 

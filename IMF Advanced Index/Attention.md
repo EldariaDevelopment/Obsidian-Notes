@@ -5,7 +5,7 @@ Guard what enters your mind, and what stays in the mind. Reduce distractions. Re
 
 ### Subsets of Attention
 
-- **Focus** — The ability to maintain focus is of crucial importance in any aspect of modern living. Without focus, life drifts from stimuli to stimuli, with very little consistent [[Direction]].
+- **Focus** — The ability to maintain focus is of crucial importance in any aspect of modern living. Without focus, life drifts from stimuli to stimuli, with very little consistent [[remote-github/IMF Advanced Index/Direction]].
 - **Residual Attention** — Your attention isn't just about what you are thinking about right now; it's moreso composed of everything that's entered your mind over past 72 hours.
     - Similar Keywords: Attentional Residue, Echo, Resonating, Ripples, Shadows, Reflections, Glimmers, Whispers, Deja Vu, Attention Robbers, Attentional Switching, Distraction Radiation, Distraction Amnesia, Continuity of Thought
 
@@ -19,9 +19,9 @@ Guard what enters your mind, and what stays in the mind. Reduce distractions. Re
 
 - Distractions — Distractions come in many forms and factors. Below is a list of major sources of distraction to safeguard against:
 - [[Poor Diet]] — Sugar makes people act impulsively; they become more susceptible to distractions. Grains can cause brain fog to lowers mood and Enthusiasm. Both dramatically raise blood sugar levels causing the secretion of Insulin. The resulting fall of blood glucose levels causes hunger, irritability, and energy crashes.
-- Average Diet — Even an average diet can still have several micro-nutrient deficiencies that can be the cause of headaches, lower [[Energy]] levels, mood swings, a lack of enthusiasm.
-- Lack of [[Enthusiasm]]
-- Lack of [[Direction]]
+- Average Diet — Even an average diet can still have several micro-nutrient deficiencies that can be the cause of headaches, lower [[remote-github/IMF Advanced Index/Energy]] levels, mood swings, a lack of enthusiasm.
+- Lack of [[remote-github/IMF Advanced Index/Enthusiasm]]
+- Lack of [[remote-github/IMF Advanced Index/Direction]]
 
 ### Solutions to Poor Attention
 
@@ -29,4 +29,4 @@ Guard what enters your mind, and what stays in the mind. Reduce distractions. Re
 - Having a Good Diet
 
 ---
-toc: [[FlowCreation TOC]]
+toc: [[remote-github/IMF Advanced Index/FlowCreation TOC]]

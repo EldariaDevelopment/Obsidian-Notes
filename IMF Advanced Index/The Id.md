@@ -5,7 +5,7 @@
 - The disorganized part of the personality structure that contains a human's basic, instinctual drives. 
 
 ## Related
-[[No-Face]] - essentially embodies the Id
+[[remote-github/IMF Advanced Index/No-Face]] - essentially embodies the Id
 
 ---
-links: [[Concepts MOC]]
+links: [[remote-github/IMF Advanced Index/Concepts MOC]]

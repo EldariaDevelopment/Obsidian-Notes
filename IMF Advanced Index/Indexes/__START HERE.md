@@ -1,6 +1,6 @@
 First, make sure you're using the Dark Theme (or switch themes)
 In the File explorer, select "Sort by file name (A to Z)"
-Go to the introduction: [[IMF START]]
+Go to the introduction: [[remote-github/IMF Advanced Index/IMF START]]
 
 
 Disclaimer: If you are completely new, ignore all of this and just start making notes. Maybe come back after you have at least 100 notes.

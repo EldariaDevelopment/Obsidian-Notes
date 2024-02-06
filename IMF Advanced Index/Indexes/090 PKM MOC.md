@@ -1,5 +1,5 @@
 tags: #PKM #TOC
-links: [[000 Index|Index]] 
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]] 
 
 ---
 # PKM MOC

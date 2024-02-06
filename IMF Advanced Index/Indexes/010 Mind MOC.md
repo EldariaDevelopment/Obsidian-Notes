@@ -1,5 +1,5 @@
 tags: #MOC, #mind 
-links: [[000 Index|Index]], [[010 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[020 Body MOC|Body]]
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[remote-github/IMF Advanced Index/Indexes/010 Mind MOC| Mind]], [[remote-github/IMF Advanced Index/Concepts MOC|Concepts]], [[remote-github/IMF Advanced Index/Indexes/020 Body MOC|Body]]
 
 ---
 # Mind TOC
@@ -11,13 +11,13 @@ Welcome to the **Mind TOC**. First, let's define some overlapping meta-categorie
 -   `Contextual Lenses` are primarily for broadening perspective and deepening understanding. Great for reviewing, planning, empathizing, and meditating. 
 
 ### For Pattern Recognition
--   [[Concepts MOC]]
--   [[Charlie Munger's Mental Models]]
+-   [[remote-github/IMF Advanced Index/Concepts MOC]]
+-   [[remote-blog/03 IMF_AdvancedStarterKit_v2/Charlie Munger's Mental Models]]
 
 ### For Clarity, Problem-Solving, and Perspective
--   [[Levels of Magnification]] — Analyzing via three lenses.
+-   [[remote-blog/03 IMF_AdvancedStarterKit_v2/Levels of Magnification]] — Analyzing via three lenses.
 -   Thought Unpacking — ==Thinking critically and analytically.==
--   [[Contextual Lenses]] — Broadening perspective
+-   [[remote-github/IMF Advanced Index/Contextual Lenses]] — Broadening perspective
 
 ### For Meditation and Imagination
 -   Meditation Jaunts — A joyful sequence of various meditations to bounce between during a single 20-minute session. 
@@ -35,4 +35,4 @@ Welcome to the **Mind TOC**. First, let's define some overlapping meta-categorie
     
 ---
 tags: #MOC #Mind
-links: [[000 Index|Index]], [[010 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[020 Body MOC|Body]]
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[remote-github/IMF Advanced Index/Indexes/010 Mind MOC| Mind]], [[remote-github/IMF Advanced Index/Concepts MOC|Concepts]], [[remote-github/IMF Advanced Index/Indexes/020 Body MOC|Body]]

@@ -27,4 +27,4 @@ Reference this tidbit for even more: Tidbit - Tao of John Boyd - OODA Loop [[154
 
 ---
 tags: [[MentalModels]]   
-links: [[Concepts MOC]]
+links: [[remote-github/IMF Advanced Index/Concepts MOC]]

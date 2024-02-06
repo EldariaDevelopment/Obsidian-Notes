@@ -1,7 +1,7 @@
 # Natural Selection
 One of the most monumental of all concepts. So many fascinating angles. 
 
-[[Natural Selection]] is closely related to [[Hormesis]] and [[Antifragility]].
+[[remote-github/IMF Advanced Index/Natural Selection]] is closely related to [[remote-github/IMF Advanced Index/Hormesis]] and [[remote-github/IMF Advanced Index/Antifragility]].
 
 ## Wiki
 - [ ] #trim
@@ -23,4 +23,4 @@ Darwin's ideas, along with those of Adam Smith and Karl Marx, had a profound inf
 In the words of the philosopher Daniel Dennett, *Darwin's dangerous idea" of evolution by natural selection is a "universal acid," which cannot be kept restricted to any vessel or container, as it soon leaks out, working its way into ever-wider surroundings.[115] Thus, in the last decades, the concept of natural selection has spread from evolutionary biology to other disciplines, including evolutionary computation, quantum Darwinism, evolutionary economics, evolutionary epistemology, evolutionary psychology, and cosmological natural selection. This unlimited applicability has been called universal Darwinism.*
 
 ---
-links: [[Concepts MOC]]
+links: [[remote-github/IMF Advanced Index/Concepts MOC]]

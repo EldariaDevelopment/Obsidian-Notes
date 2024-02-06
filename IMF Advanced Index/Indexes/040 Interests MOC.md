@@ -1,11 +1,11 @@
 tags: #interests #MOC 
-links: [[000 Index|Index]], [[040 Interests MOC|Interests]]
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[remote-github/IMF Advanced Index/Indexes/040 Interests MOC|Interests]]
 
 ---
 # Interests 
 Welcome to the Interests MOC. It can be quite a sprawling content map. 
 
-[[Books Example MOC]]
+[[remote-github/IMF Advanced Index/Books Example MOC]]
 
 ## Using the Dewey Decimal System
 Despite some criticisms of the Dewey Decimal System, it's actually an excellent, pre-built, time-tested structure that works very well for structuring the interests of your digital library.
@@ -13,38 +13,38 @@ Despite some criticisms of the Dewey Decimal System, it's actually an excellent,
 ==NOTE: Most links are only starter pages for your various interests==
 
 - **000s - General Reference (Encyclopedias, Journalism, Articles, News)**
-  - [[090 PKM MOC|PKM MOC]] - Managing my Personal Knowledge
+  - [[remote-github/IMF Advanced Index/Indexes/090 PKM MOC|PKM MOC]] - Managing my Personal Knowledge
 - **100s - Philosophy & Psychology & Logic** 
-	- [[Philosophy MOC]]
-	- [[Confucianism MOC]]
-	- [[Stoicism MOC]]
+	- [[remote-github/IMF Advanced Index/Philosophy MOC]]
+	- [[remote-github/IMF Advanced Index/Confucianism MOC]]
+	- [[remote-github/IMF Advanced Index/Stoicism MOC]]
 - **200s - Spirituality & Religion**
 - **300s - Social Sciences (People living/working in Society, Law, Gov, Corps, Groups)**
-  - [[Rhetoric MOC]]
+  - [[remote-github/IMF Advanced Index/Rhetoric MOC]]
 - **400s - Language**
-  - [[Language MOC]]
-  - [[Chinese Language MOC]]
-  - [[English Language MOC]]
-  - [[French Language MOC]]
-  - [[Latin Language MOC]]
-  - [[Words MOC]] - Studying the thesaurus *for fun*, making links 
+  - [[remote-github/IMF Advanced Index/Language MOC]]
+  - [[remote-github/IMF Advanced Index/Chinese Language MOC]]
+  - [[remote-github/IMF Advanced Index/English Language MOC]]
+  - [[remote-github/IMF Advanced Index/French Language MOC]]
+  - [[remote-github/IMF Advanced Index/Latin Language MOC]]
+  - [[remote-github/IMF Advanced Index/Words MOC]] - Studying the thesaurus *for fun*, making links 
 - **500s - Natural Sciences (math, astronomy, chemistry, geology, plants, animals)**
-  - [[Cosmology Astronomy Astrophysics MOC]] - The awe-inspiring wonders of the universe, with more focused study
+  - [[remote-blog/03 IMF_AdvancedStarterKit_v2/Cosmology Astronomy Astrophysics MOC]] - The awe-inspiring wonders of the universe, with more focused study
 - **600s - Tech & Applied Sciences (technology, engineering, medicine, agriculture)**
-  - [[Home Building MOC]]
+  - [[remote-github/IMF Advanced Index/Home Building MOC]]
 - **700s - Fine Arts & Recreation (Architecture, Painting, Photos, Music, Sports, Film & TV, songs, leisure)**
-  - [[Art MOC]]
-  - [[Cooking MOC]]
-  - [[Football MOC]]
-  - [[Vocals MOC]]
+  - [[remote-github/IMF Advanced Index/Art MOC]]
+  - [[remote-github/IMF Advanced Index/Cooking MOC]]
+  - [[remote-github/IMF Advanced Index/Football MOC]]
+  - [[remote-github/IMF Advanced Index/Vocals MOC]]
 - **800s - Literature (literature, classics, books)**
-  - [[Literature MOC]]
+  - [[remote-github/IMF Advanced Index/Literature MOC]]
 - **900s - History & Biography & Geography**
-	- [[Ancient Culture MOC]] - Greek, Roman
-	- [[History MOC]]
+	- [[remote-github/IMF Advanced Index/Ancient Culture MOC]] - Greek, Roman
+	- [[remote-github/IMF Advanced Index/History MOC]]
 
 Note: There’s a reason this MOC is called interests and not Dewey. It isn’t about the whole decimal system; it’s about your interests. We’re just using Dewey’s basic outline as a fixed _spatial constellation_ upon which to easily add dots of new interests to it.
 
 ---
 tags: #interests #MOC 
-links: [[000 Index|Index]], [[040 Interests MOC|Interests]]
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[remote-github/IMF Advanced Index/Indexes/040 Interests MOC|Interests]]

@@ -1,5 +1,5 @@
 tags: #allegories
-links: [[Allegories MOC|Allegories]]
+links: [[remote-github/IMF Advanced Index/To sort/Allegories MOC|Allegories]]
 
 ---
 # Plato's Cave

@@ -11,7 +11,7 @@ When it comes to managing your digital knowledge, the following are some guiding
 7. Produce Finished Products, when desired
 8. Encourage repetitions - repetitions strengthen memory
 
-These values are cultivated in the [[IMF START|IMF framework]]. Go there after reading the rest here.
+These values are cultivated in the [[remote-github/IMF Advanced Index/IMF START|IMF framework]]. Go there after reading the rest here.
 
 ### Guiding Principles
 1. The more ways you can access a note, the better chance you have of retrieving that note. (Accessibility)
@@ -29,7 +29,7 @@ These values are cultivated in the [[IMF START|IMF framework]]. Go there after r
 
 ---
 tags: #IMF #PKM 
-links:  [[IMF START]], [[IMF MOC]]
+links:  [[remote-github/IMF Advanced Index/IMF START]], [[remote-github/IMF Advanced Index/IMF MOC]]
 modified: 2020-05-23
 
 

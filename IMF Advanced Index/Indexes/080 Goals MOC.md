@@ -1,5 +1,5 @@
 tags: #MOC #planning #goals #review #reflections #metrics #wins
-links: [[000 Index|Index]], [[080 Goals MOC|Goals]] 
+links: [[remote-github/IMF Advanced Index/Indexes/000 Index|Index]], [[remote-github/IMF Advanced Index/Indexes/080 Goals MOC|Goals]] 
 
 ---
 # Goals MOC 
