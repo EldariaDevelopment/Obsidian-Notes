@@ -1,0 +1,35 @@
+command /getitem <text>:
+    permission: *
+    trigger:
+        give {Item.%arg-1%} to player
+        send "given {Item.%arg-1%}" to player
+ 
+on sneak toggle:
+    player is wearing iron boots:
+        player is not sneaking
+        push player up 20 
+on armor equip:
+    CheckArmor(player)
+    
+
+on join:
+    CheckArmor(player)
+every 2 seconds: 
+    CheckArmor(player)
+    
+
+function CheckArmor(p: player):
+    if %{_p}% is wearing iron boots:
+        
+        
+    broadcast {_message}
+    %{_p}%
+on damage:
+    damage cause is fall:
+        if {lastfall.%victim%} is set:
+            cancel the event
+            delete {lastfall.%victim%}
+
+on region exit:
+    if player is in the region "spawn":
+        set {lastfall.%player%} to true
