@@ -4,9 +4,10 @@
 		{"id":"7205e432a98dc891","type":"text","text":"Derivatives","x":-20,"y":80,"width":250,"height":60},
 		{"id":"c10cc610bb7d7e17","type":"text","text":"Limits","x":-20,"y":-160,"width":250,"height":60},
 		{"id":"00e65752096787db","type":"text","text":"Learning Calculus","x":-400,"y":85,"width":191,"height":50},
-		{"id":"d472ba7eb3bd38bb","x":440,"y":-160,"width":250,"height":60,"type":"text","text":"Interpolation"},
-		{"id":"437653b9daf1539a","x":440,"y":560,"width":250,"height":60,"type":"text","text":"Point slope"},
-		{"id":"65b5b6123cb5eb64","x":-400,"y":560,"width":191,"height":60,"type":"text","text":"Pre-Calculus"}
+		{"id":"d472ba7eb3bd38bb","type":"text","text":"Interpolation","x":440,"y":-160,"width":250,"height":60},
+		{"id":"437653b9daf1539a","type":"text","text":"Point slope","x":440,"y":560,"width":250,"height":60},
+		{"id":"65b5b6123cb5eb64","type":"text","text":"Pre-Calculus","x":-400,"y":560,"width":191,"height":60},
+		{"id":"4f237a9e5fb2e901","x":-580,"y":-400,"width":400,"height":393,"type":"file","file":"remote-github/README.md"}
 	],
 	"edges":[
 		{"id":"99a5299110115408","fromNode":"00e65752096787db","fromSide":"right","toNode":"c10cc610bb7d7e17","toSide":"left"},
