@@ -30,7 +30,7 @@
 		{"id":"33b35cf17967057b","type":"text","text":"    player is wearing iron boots:","x":380,"y":-316,"width":250,"height":60,"color":"6"},
 		{"id":"7a4f9421947eb49f","type":"text","text":"        push player forward","x":822,"y":-600,"width":250,"height":60,"color":"6"},
 		{"id":"481957429c09f664","x":922,"y":80,"width":275,"height":106,"color":"6","type":"text","text":"on sneak toggle:\n\n    if player is not sneaking:"},
-		{"id":"42f02fa3fc43dc7e","x":-600,"y":-440,"width":250,"height":60,"type":"text","text":""}
+		{"id":"42f02fa3fc43dc7e","x":-620,"y":-780,"width":250,"height":60,"color":"6","type":"text","text":"Code block"}
 	],
 	"edges":[
 		{"id":"58dc9f6928ba075d","fromNode":"27b8dfd713c71583","fromSide":"right","toNode":"a5b3ba1af914d29f","toSide":"left","color":"4"},
