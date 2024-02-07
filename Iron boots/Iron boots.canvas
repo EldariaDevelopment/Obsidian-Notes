@@ -25,7 +25,9 @@
 		{"id":"91561941df33ae97","x":-620,"y":-540,"width":250,"height":60,"color":"1","type":"text","text":"Not Being Worked On"},
 		{"id":"84e0b2f616d2412c","x":840,"y":-320,"width":250,"height":60,"color":"6","type":"text","text":"        push player up"},
 		{"id":"1d002250f09e27b5","x":417,"y":480,"width":250,"height":60,"color":"6","type":"text","text":"    player is wearing iron boots:"},
-		{"id":"a7b64f76f85d3256","type":"text","text":"If Not Wear ( Condition )","x":417,"y":590,"width":250,"height":60,"color":"4"}
+		{"id":"a7b64f76f85d3256","type":"text","text":"If Not Wear ( Condition )","x":417,"y":590,"width":250,"height":60,"color":"4"},
+		{"id":"105eba10c427ad47","x":-69,"y":223,"width":250,"height":60,"color":"6","type":"text","text":"on armor equip:"},
+		{"id":"bf7d735936ec4b46","x":6,"y":-286,"width":250,"height":60,"type":"text","text":"on left click:"}
 	],
 	"edges":[
 		{"id":"58dc9f6928ba075d","fromNode":"27b8dfd713c71583","fromSide":"right","toNode":"a5b3ba1af914d29f","toSide":"left","color":"4"},
@@ -49,6 +51,7 @@
 		{"id":"1a5a9061b3a17275","fromNode":"a0d91319cea9b213","fromSide":"bottom","toNode":"440c658dc1418958","toSide":"top","color":"5"},
 		{"id":"e7969d62bf308208","fromNode":"a87ee6bce7487741","fromSide":"top","toNode":"84e0b2f616d2412c","toSide":"bottom","color":"5"},
 		{"id":"4c81e0108d6c79eb","fromNode":"60346aedab34c4ec","fromSide":"bottom","toNode":"1d002250f09e27b5","toSide":"top","color":"5"},
-		{"id":"42b787e6e5cb914e","fromNode":"a7b64f76f85d3256","fromSide":"top","toNode":"1d002250f09e27b5","toSide":"bottom","color":"5"}
+		{"id":"42b787e6e5cb914e","fromNode":"a7b64f76f85d3256","fromSide":"top","toNode":"1d002250f09e27b5","toSide":"bottom","color":"5"},
+		{"id":"7c3169f44f82fab0","fromNode":"ffc95dc5cf06f7cc","fromSide":"bottom","toNode":"105eba10c427ad47","toSide":"top","color":"5"}
 	]
 }
