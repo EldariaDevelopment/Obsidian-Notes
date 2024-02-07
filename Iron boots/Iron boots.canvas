@@ -2,10 +2,10 @@
 	"nodes":[
 		{"id":"c1d772e35d63165c","x":-640,"y":-740,"width":290,"height":280,"type":"group","label":"Sorting"},
 		{"id":"ffc95dc5cf06f7cc","type":"text","text":"On Wear ( Event )","x":-52,"y":103,"width":250,"height":60,"color":"3"},
-		{"id":"a5b3ba1af914d29f","type":"text","text":"On Shift ( Event )","x":-52,"y":-180,"width":250,"height":60,"color":"3"},
+		{"id":"a5b3ba1af914d29f","type":"text","text":"On Shift ( Event )","x":-52,"y":-180,"width":250,"height":60,"color":"4"},
 		{"id":"de374c028ceac8d6","type":"text","text":"On Left click ( Event )","x":-52,"y":-440,"width":250,"height":60,"color":"3"},
 		{"id":"a0d91319cea9b213","type":"text","text":"No Fall Damage ( Condition )","x":380,"y":103,"width":287,"height":60,"color":"4"},
-		{"id":"bff9eb0d957d91db","type":"text","text":"If Wear ( Condition )","x":380,"y":-173,"width":250,"height":60,"color":"3"},
+		{"id":"bff9eb0d957d91db","type":"text","text":"If Wear ( Condition )","x":380,"y":-173,"width":250,"height":60,"color":"4"},
 		{"id":"10ab331ccfc8fef7","type":"text","text":"If Wear ( Condition )","x":380,"y":-470,"width":250,"height":60,"color":"3"},
 		{"id":"14262c815adf29a1","type":"text","text":"Push Forward","x":840,"y":-440,"width":250,"height":60,"color":"3"},
 		{"id":"a87ee6bce7487741","type":"text","text":"Push Up","x":922,"y":-183,"width":250,"height":60,"color":"3"},
@@ -23,14 +23,15 @@
 		{"id":"cc69551d249113fb","x":-620,"y":-720,"width":250,"height":60,"color":"5","type":"text","text":"Code"},
 		{"id":"21d09db9ed519026","x":-620,"y":-660,"width":250,"height":60,"color":"4","type":"text","text":"Complete"},
 		{"id":"1b7abaaa7f88de75","x":-620,"y":-600,"width":250,"height":60,"color":"3","type":"text","text":"Being Worked On"},
-		{"id":"91561941df33ae97","x":-620,"y":-540,"width":250,"height":60,"color":"1","type":"text","text":"Not Being Worked On"}
+		{"id":"91561941df33ae97","x":-620,"y":-540,"width":250,"height":60,"color":"1","type":"text","text":"Not Being Worked On"},
+		{"id":"84e0b2f616d2412c","x":840,"y":-320,"width":250,"height":60,"color":"6","type":"text","text":"        push player up"}
 	],
 	"edges":[
-		{"id":"58dc9f6928ba075d","fromNode":"27b8dfd713c71583","fromSide":"right","toNode":"a5b3ba1af914d29f","toSide":"left","color":"3"},
+		{"id":"58dc9f6928ba075d","fromNode":"27b8dfd713c71583","fromSide":"right","toNode":"a5b3ba1af914d29f","toSide":"left","color":"4"},
 		{"id":"3b9ef0d31a26f2c2","fromNode":"27b8dfd713c71583","fromSide":"right","toNode":"de374c028ceac8d6","toSide":"left","color":"3"},
 		{"id":"a357217caf63b6ab","fromNode":"27b8dfd713c71583","fromSide":"right","toNode":"ffc95dc5cf06f7cc","toSide":"left","color":"3"},
 		{"id":"51e789a822e760e1","fromNode":"de374c028ceac8d6","fromSide":"right","toNode":"10ab331ccfc8fef7","toSide":"left","color":"3"},
-		{"id":"c0d1bb8cdce7848e","fromNode":"a5b3ba1af914d29f","fromSide":"right","toNode":"bff9eb0d957d91db","toSide":"left","color":"3"},
+		{"id":"c0d1bb8cdce7848e","fromNode":"a5b3ba1af914d29f","fromSide":"right","toNode":"bff9eb0d957d91db","toSide":"left","color":"4"},
 		{"id":"d080f5f22c737312","fromNode":"ffc95dc5cf06f7cc","fromSide":"right","toNode":"a0d91319cea9b213","toSide":"left","color":"3"},
 		{"id":"a8cb54b0fec2fa27","fromNode":"10ab331ccfc8fef7","fromSide":"right","toNode":"14262c815adf29a1","toSide":"left","color":"3"},
 		{"id":"27f0435ae193345e","fromNode":"bff9eb0d957d91db","fromSide":"right","toNode":"a87ee6bce7487741","toSide":"left","color":"3"},
@@ -44,6 +45,7 @@
 		{"id":"4116737e1799bcd0","fromNode":"a7b64f76f85d3256","fromSide":"right","toNode":"2f00432d69965dae","toSide":"left","color":"5"},
 		{"id":"8058d9c14296ba3a","fromNode":"29fc5660c742901b","fromSide":"top","toNode":"a0d91319cea9b213","toSide":"bottom","color":"5"},
 		{"id":"b283dddb75294d95","fromNode":"a5b3ba1af914d29f","fromSide":"bottom","toNode":"c957083432df224e","toSide":"top","color":"5"},
-		{"id":"1a5a9061b3a17275","fromNode":"a0d91319cea9b213","fromSide":"bottom","toNode":"440c658dc1418958","toSide":"top","color":"5"}
+		{"id":"1a5a9061b3a17275","fromNode":"a0d91319cea9b213","fromSide":"bottom","toNode":"440c658dc1418958","toSide":"top","color":"5"},
+		{"id":"e7969d62bf308208","fromNode":"a87ee6bce7487741","fromSide":"top","toNode":"84e0b2f616d2412c","toSide":"bottom","color":"5"}
 	]
 }
