@@ -17,7 +17,8 @@
 		{"id":"60346aedab34c4ec","type":"text","text":"If Wear ( Condition )","x":417,"y":390,"width":250,"height":60,"color":"3"},
 		{"id":"29fc5660c742901b","type":"text","text":"set {lastfall.%player%} to true","x":880,"y":360,"width":250,"height":68,"color":"6"},
 		{"id":"2f00432d69965dae","type":"text","text":"set {lastfall.%player%} to false","x":922,"y":590,"width":250,"height":60,"color":"6"},
-		{"id":"c957083432df224e","type":"text","text":"sneak toggle:\n  player is not sneaking","x":73,"y":-10,"width":250,"height":60,"color":"6"}
+		{"id":"c957083432df224e","type":"text","text":"sneak toggle:\n  player is not sneaking","x":73,"y":-10,"width":250,"height":60,"color":"6"},
+		{"id":"440c658dc1418958","x":192,"y":248,"width":568,"height":202,"type":"text","text":"on damage:\ndamage cause is fall:\ncancel the event"}
 	],
 	"edges":[
 		{"id":"58dc9f6928ba075d","fromNode":"27b8dfd713c71583","fromSide":"right","toNode":"a5b3ba1af914d29f","toSide":"left","color":"4"},
@@ -37,6 +38,7 @@
 		{"id":"26f63c7714e33e97","fromNode":"60346aedab34c4ec","fromSide":"right","toNode":"29fc5660c742901b","toSide":"left","color":"5"},
 		{"id":"4116737e1799bcd0","fromNode":"a7b64f76f85d3256","fromSide":"right","toNode":"2f00432d69965dae","toSide":"left","color":"5"},
 		{"id":"8058d9c14296ba3a","fromNode":"29fc5660c742901b","fromSide":"top","toNode":"a0d91319cea9b213","toSide":"bottom","color":"4"},
-		{"id":"b283dddb75294d95","fromNode":"a5b3ba1af914d29f","fromSide":"bottom","toNode":"c957083432df224e","toSide":"top","color":"5"}
+		{"id":"b283dddb75294d95","fromNode":"a5b3ba1af914d29f","fromSide":"bottom","toNode":"c957083432df224e","toSide":"top","color":"5"},
+		{"id":"1a5a9061b3a17275","fromNode":"a0d91319cea9b213","fromSide":"bottom","toNode":"440c658dc1418958","toSide":"top"}
 	]
 }
